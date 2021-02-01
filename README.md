@@ -1,4 +1,4 @@
-# DataCampMachineLearningSpecialization
+# ML-Specialization-Notebooks
 This repository contains Jupyter Notebooks built whilst taking some introductory courses of DataCamp's Machine Learning Specialization.  
 > Note: These notebooks might not follow the exact order or content of the exercises, as the purpose of creating these was to do complete / extended analysis on the practice exercises in the specialization, and try to improve knowledge beyond the sample Q&As. These are also about 1.5 years old, so if the courses have updated now, then you might not find them as useful today.
 
